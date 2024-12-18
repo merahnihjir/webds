@@ -25,10 +25,10 @@ export default function IndexPage() {
 						<div className="grid grid-cols-1 gap-4 md:mt-24 lg:grid-cols-2">
 							<div className="flex flex-col">
 								<h1 className="font-extrabold leading-none md:leading-tight" style={{ fontSize: "3rem" }}>
-									Play <br className="sm:hidden" />
-									<span className="text-discord-blurple">Truth</span> or <span className="text-discord-red">Dare</span>{" "}
+									The Perfect <br className="sm:hidden" />
+									<span className="text-discord-oranye">Music</span> Bot</span>{" "}
 									<br className="" />
-									in your{" "}
+									in {" "}
 									<span className="text-discord-blurple">
 										<br className="sm:hidden" />
 										Discord
