@@ -28,7 +28,7 @@ export default function IndexPage() {
 									The Perfect <br className="sm:hidden" />
 									<span className="text-discord-oranye">Music</span> Bot</span>{" "}
 									<br className="" />
-									in {" "}
+									in{" "}
 									<span className="text-discord-blurple">
 										<br className="sm:hidden" />
 										Discord
