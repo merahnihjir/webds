@@ -45,7 +45,6 @@ export default function Navbar() {
 						<div className="ml-3">
 							<NavItem href="/">Home</NavItem>
 							<NavItem href="/commands">Commands</NavItem>
-							<NavItem href="/premium">Premium</NavItem>
 							<NavItem href="/support" external>
 								Support
 							</NavItem>
@@ -67,7 +66,6 @@ export default function Navbar() {
 					<div className="mtr-2 flex flex-col ">
 						<NavItem href="/">Home</NavItem>
 						<NavItem href="/commands">Commands</NavItem>
-						<NavItem href="/premium">Premium</NavItem>
 						<NavItem href="/support" external>
 							Support
 						</NavItem>
